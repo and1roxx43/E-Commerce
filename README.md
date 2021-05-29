@@ -1,4 +1,4 @@
-# PORJECT NAME: E-Commerce
+# E-Commerce back-end
 
 ## Overview:
 As a full-stack developer, the task is to build a back end for an e-commerce site by modifying the starter code. 
