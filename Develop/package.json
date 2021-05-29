@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git@github.com:and1roxx43/E-Commerce.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrew Quenette",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
