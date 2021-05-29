@@ -134,6 +134,10 @@ Your database should contain the following four models, including the requiremen
 ___
 ### Videos
 
-Initialisation and Seeding of database
+#### Initialisation and Seeding of database
 
 https://user-images.githubusercontent.com/14179472/120073678-b52e9880-c0dc-11eb-837e-a7f5318bf3bf.mov
+
+#### Insomia
+
+https://user-images.githubusercontent.com/14179472/120074177-faec6080-c0de-11eb-8a7c-ca31b10161f2.mov
